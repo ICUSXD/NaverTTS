@@ -12,3 +12,7 @@ tts = NaverTTS()
 tts.save(text, path)
 ```
 text and path must be a string
+
+### A note of caution
+This project use seleniumm, so you must have chrome(I use 121.0.6167.185 version).
+This project isn't suits well for live talk, using this method takes a long time(about 1~3sec).
