@@ -1,4 +1,4 @@
-# NaverTTS
+# NaverWebTTS
 NaverTTS using papago
 ## Method
 1.Insert text in papago and press "Listening pronunciation" Button</br>
@@ -7,7 +7,7 @@ NaverTTS using papago
 
 ## How to use
 ```
-from tts import NaverTTS
+from tts import NaverWebTTS
 tts = NaverTTS()
 tts.save(text, path)
 ```
