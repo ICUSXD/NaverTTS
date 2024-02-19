@@ -1,5 +1,5 @@
 # NaverWebTTS
-NaverTTS using papago
+NaverWebTTS using papago
 ## Method
 1.Insert text in papago and press "Listening pronunciation" Button</br>
 2.Fetch network requests and find audio url in header using content-type</br>
