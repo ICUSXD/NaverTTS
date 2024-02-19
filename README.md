@@ -8,7 +8,7 @@ NaverTTS using papago
 ## How to use
 ```
 from tts import NaverWebTTS
-tts = NaverTTS()
+tts = NaverWebTTS()
 tts.save(text, path)
 ```
 text and path must be a string
